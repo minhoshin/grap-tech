@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66e27cb9-3c42-424f-b62e-f1c9f97fbb1e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/redis.md" beforeDir="false" afterPath="$PROJECT_DIR$/redis.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mongoDB.md" beforeDir="false" afterPath="$PROJECT_DIR$/mongoDB.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -27,7 +27,7 @@
             <entry file="file://$PROJECT_DIR$/redis.md">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="120">
-                  <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+                  <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="13" />
                 </state>
               </provider>
             </entry>
@@ -41,7 +41,7 @@
             <entry file="file://$PROJECT_DIR$/mongoDB.md">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="345">
-                  <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+                  <caret line="34" column="12" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="12" />
                 </state>
               </provider>
             </entry>
@@ -53,8 +53,8 @@
           <file leaf-file-name="mongoDB.md" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/mongoDB.md">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="345">
-                  <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+                <state relative-caret-position="525">
+                  <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
                 </state>
               </provider>
             </entry>
@@ -72,8 +72,8 @@
         <option value="$PROJECT_DIR$/Redis.md" />
         <option value="$PROJECT_DIR$/MongoDB.md" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/mongoDB.md" />
         <option value="$PROJECT_DIR$/redis.md" />
+        <option value="$PROJECT_DIR$/mongoDB.md" />
       </list>
     </option>
   </component>
@@ -147,12 +147,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1524475470385</updated>
-      <workItem from="1524475471757" duration="8513000" />
+      <workItem from="1524475471757" duration="8753000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8513000" />
+    <option name="totallyTimeSpent" value="8753000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1440" y="-234" width="1920" height="1119" extended-state="6" />
@@ -197,17 +197,17 @@
     <entry file="file://$PROJECT_DIR$/Nodejs.md">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/mongoDB.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/redis.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mongoDB.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
         </state>
       </provider>
     </entry>
