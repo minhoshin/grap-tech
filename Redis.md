@@ -6,7 +6,7 @@
 <pre><code>
 $ redis-cli
 127.0.0.1:6379> auth password
-</pre></code>
+</code></pre>
 
 ##### STRINGS
 * http://redisgate.kr/redis/command/strings.php
@@ -14,7 +14,7 @@ $ redis-cli
 127.0.0.1:6379> SET key value
 127.0.0.1:6379> DEL key
 127.0.0.1:6379> GET key
-</pre></code>
+</code></pre>
 
 ##### LISTS
 * http://redisgate.kr/redis/command/lists.php
@@ -23,7 +23,7 @@ $ redis-cli
 127.0.0.1:6379> RPOP key
 127.0.0.1:6379> LPOP key
 127.0.0.1:6379> RPUSH key value
-</pre></code>
+</code></pre>
 
 ##### SETS
 * http://redisgate.kr/redis/command/sets.php
@@ -37,4 +37,4 @@ $ redis-cli
 127.0.0.1:6379> HSET key field
 127.0.0.1:6379> HDEL key field
 127.0.0.1:6379> HGET key field
-</pre></code>
+</code></pre>
