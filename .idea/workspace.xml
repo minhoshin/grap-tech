@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66e27cb9-3c42-424f-b62e-f1c9f97fbb1e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MongoDB.md" beforeDir="false" afterPath="$PROJECT_DIR$/MongoDB.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mongoDB.md" beforeDir="false" afterPath="$PROJECT_DIR$/mongoDB.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -41,8 +40,8 @@
           <file leaf-file-name="mongoDB.md" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/mongoDB.md">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="135">
-                  <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+                <state relative-caret-position="345">
+                  <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
                 </state>
               </provider>
             </entry>
@@ -55,7 +54,7 @@
             <entry file="file://$PROJECT_DIR$/mongoDB.md">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="255">
-                  <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+                  <caret line="17" column="31" lean-forward="true" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
                 </state>
               </provider>
             </entry>
@@ -148,12 +147,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1524475470385</updated>
-      <workItem from="1524475471757" duration="6773000" />
+      <workItem from="1524475471757" duration="7651000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6773000" />
+    <option name="totallyTimeSpent" value="7651000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1440" y="-234" width="1920" height="1119" extended-state="6" />
@@ -207,8 +206,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mongoDB.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        <state relative-caret-position="345">
+          <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
         </state>
       </provider>
     </entry>
