@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="66e27cb9-3c42-424f-b62e-f1c9f97fbb1e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/Nodejs.md" beforeDir="false" afterPath="$PROJECT_DIR$/Nodejs.md" afterDir="false" />
-    </list>
+    <list default="true" id="66e27cb9-3c42-424f-b62e-f1c9f97fbb1e" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -32,11 +30,20 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="Nodejs.md" pinned="false" current-in-tab="true">
+          <file leaf-file-name="Nodejs.md" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/Nodejs.md">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="390">
-                  <caret line="26" column="32" lean-forward="true" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
+                <state relative-caret-position="45">
+                  <caret line="3" selection-start-line="3" selection-end-line="29" selection-end-column="29" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="nodeTip.js" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/nodeTip.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="548">
+                  <caret line="124" column="33" lean-forward="true" selection-start-line="124" selection-start-column="33" selection-end-line="124" selection-end-column="33" />
                 </state>
               </provider>
             </entry>
@@ -44,8 +51,8 @@
           <file leaf-file-name="mongoDB.md" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/mongoDB.md">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="345">
-                  <caret line="34" column="12" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="12" />
+                <state relative-caret-position="465">
+                  <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
                 </state>
               </provider>
             </entry>
@@ -89,6 +96,7 @@
         <option value="$PROJECT_DIR$/mongoDB.md" />
         <option value="$PROJECT_DIR$/markdown.md" />
         <option value="$PROJECT_DIR$/Nodejs.md" />
+        <option value="$PROJECT_DIR$/nodeTip.js" />
       </list>
     </option>
   </component>
@@ -162,12 +170,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1524475470385</updated>
-      <workItem from="1524475471757" duration="9558000" />
+      <workItem from="1524475471757" duration="15754000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9558000" />
+    <option name="totallyTimeSpent" value="15754000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1440" y="-234" width="1920" height="1119" extended-state="6" />
@@ -216,13 +224,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mongoDB.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="34" column="12" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/markdown.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -232,8 +233,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Nodejs.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="32" lean-forward="true" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="29" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mongoDB.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nodeTip.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="548">
+          <caret line="124" column="33" lean-forward="true" selection-start-line="124" selection-start-column="33" selection-end-line="124" selection-end-column="33" />
         </state>
       </provider>
     </entry>
