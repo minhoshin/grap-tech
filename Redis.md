@@ -3,8 +3,10 @@
 ### redis gate korea
 * http://redisgate.kr/redis/introduction/redis_intro.php
 
-> $ redis-cli
-> 127.0.0.1:6379> auth password
+<pre><code>
+$ redis-cli
+127.0.0.1:6379> auth password
+<pre><code>
 
 > STRINGS
 > http://redisgate.kr/redis/command/strings.php
