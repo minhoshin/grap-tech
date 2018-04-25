@@ -39,6 +39,12 @@ for(const user of users){
     console.log(user);
 };
 
+users.forEach( function(user) {
+    console.log(user);
+});
+
+users.forEach( user => console.log(user) );
+
 const switchNumber = 9;
 let switchMsg = '';
 
@@ -59,12 +65,6 @@ switch (switchNumber) {
         switchMsg = '값이 아닙니다.';
 };
 console.log('switchMsg: '+switchMsg);
-
-users.forEach( function(user) {
-    console.log(user);
-});
-
-users.forEach( user => console.log(user) );
 
 const today = new Date();
 const date1 = new Date(2017, 9 - 1, 2);
@@ -123,3 +123,71 @@ console.log('try catch passed');
 // console.log(process.memoryUsage());
 // console.log(process.version);
 // console.log(process.versions);
+
+const students = [
+    { name: 'minho', age: 40, score: 75},
+    { name: 'yejin', age: 37, score: 85},
+    { name: 'jiwoo', age: 3, score: 95},
+];
+
+const getDegree = (score) => {
+    if(score >= 90){
+        return 'A';
+    }else if(score >= 80){
+        return 'B';
+    }else if(score >= 60){
+        return 'C';
+    };
+    return 'F';
+};
+
+students.forEach( (student) => {
+    const result = `name: ${student.name}, score: ${getDegree(student.score)}`;
+    console.log(result);
+} );
+
+function printMesssage(message){
+    console.log(message);
+}
+
+const printWelcome = function() {
+    console.log('welcome');
+}
+
+printMesssage('bye');
+printWelcome();
+
+const pm = printMesssage;
+pm('good morning');
+
+function plus(a, b){
+    return a + b;
+}
+
+function minus(a, b){
+    return a - b;
+}
+
+function calculate(a, b, func){
+    return func(a, b);
+}
+
+console.log(calculate(10, 20, plus));
+console.log(calculate(10, 20, minus));
+
+const printHello = () => console.log('hello'); // {} 생략 가능 console.log 실행하고 끝나는 경우는 null return
+printHello();
+
+const printHello2 = () => 'hello2'; // 'hello2' 를 리턴
+console.log(printHello2());
+
+const printMessageRe = message => console.log(message);
+printMesssage('message');
+
+const sumAndPrint = (a, b) => {
+    const result = a + b;
+    return `결과는 ${result}`;
+}
+
+const sumAndPrintResult = sumAndPrint(10, 20);
+console.log(sumAndPrintResult);
