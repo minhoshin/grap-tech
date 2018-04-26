@@ -191,3 +191,19 @@ const sumAndPrint = (a, b) => {
 
 const sumAndPrintResult = sumAndPrint(10, 20);
 console.log(sumAndPrintResult);
+
+const studentList = [
+    { name: 'minho', age: 40, math: 75, science: 75},
+    { name: 'yejin', age: 37, math: 85, science: 83},
+    { name: 'jiwoo', age: 3, math: 95, science: 98},
+];
+
+const plusRe = (a, b) => a + b;
+
+studentList.forEach( student => console.log(`${student.name} total: ${plusRe(student.math, student.science)}`));
+
+console.log('----------------------------');
+
+studentList.forEach( student => {
+    console.log(`${student.name} total: ${plusRe(student.math, student.science)}`);
+});
