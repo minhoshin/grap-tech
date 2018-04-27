@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66e27cb9-3c42-424f-b62e-f1c9f97fbb1e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/nodeTip.js" beforeDir="false" afterPath="$PROJECT_DIR$/nodeTip.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -45,8 +44,8 @@
           <file leaf-file-name="nodeTip.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/nodeTip.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="594">
-                  <caret line="207" column="83" selection-start-line="207" selection-start-column="83" selection-end-line="207" selection-end-column="83" />
+                <state relative-caret-position="348">
+                  <caret line="201" lean-forward="true" selection-start-line="201" selection-end-line="201" />
                 </state>
               </provider>
             </entry>
@@ -85,8 +84,8 @@
           <file leaf-file-name="mongoDB.md" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/mongoDB.md">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="300">
-                  <caret line="20" selection-start-line="20" selection-end-line="20" selection-end-column="13" />
+                <state relative-caret-position="210">
+                  <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
                 </state>
               </provider>
             </entry>
@@ -110,6 +109,8 @@
       <find>printMessage</find>
       <find>studentList</find>
       <find>plus</find>
+      <find>callbackSum</find>
+      <find>printResult</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -146,7 +147,7 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1441" />
+    <option name="x" value="1440" />
     <option name="y" value="-234" />
     <option name="width" value="1920" />
     <option name="height" value="1119" />
@@ -201,16 +202,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1524475470385</updated>
-      <workItem from="1524475471757" duration="22574000" />
+      <workItem from="1524475471757" duration="25618000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22574000" />
+    <option name="totallyTimeSpent" value="25618000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1440" y="-234" width="1920" height="1119" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.18536071" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -219,7 +219,7 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3297456" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.24363992" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -262,13 +262,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mongoDB.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="47" selection-start-line="29" selection-start-column="47" selection-end-line="29" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mongo.conf">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
@@ -292,8 +285,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/nodeTip.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="207" column="83" selection-start-line="207" selection-start-column="83" selection-end-line="207" selection-end-column="83" />
+        <state relative-caret-position="348">
+          <caret line="201" lean-forward="true" selection-start-line="201" selection-end-line="201" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mongoDB.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
